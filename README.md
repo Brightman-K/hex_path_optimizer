@@ -84,7 +84,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/用户名/hex_path_optimizer.git
+git clone https://github.com/Brightman-K/hex_path_optimizer.git
 cd hex_path_optimizer
 pip install -r requirements.txt
 ```
